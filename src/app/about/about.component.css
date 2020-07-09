@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 10px;
+}
+.lastdiv{
+  padding-bottom: 60px;
+}
+.pcolor1{
+  background-color: skyblue;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.pcolor2{
+  background-color: skyblue;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}

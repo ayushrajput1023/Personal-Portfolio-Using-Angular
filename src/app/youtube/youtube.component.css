@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 10px;
+}
+
+
+.last{
+  padding-bottom: 60px;
+}
+.mainbut{
+  color: red;
+  border: 1px solid black;
+}
+.verb{
+  border: 1px solid red;
+}
+.gram{
+  border: 1px solid #ffa41b;
+}
+.tense{
+  border: 1px solid black;
+}

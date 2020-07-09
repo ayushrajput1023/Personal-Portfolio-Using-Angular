@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+}
+.skillpercent{
+  float: right;
+}
+
+.d4{
+  padding: 10px;
+}
+
+/**
+.leftskill{
+  margin-left: 70px;
+}
+*/
+
+.last{
+  padding-bottom: 60px;
+}
+.pad{
+    padding: 20px;
+}

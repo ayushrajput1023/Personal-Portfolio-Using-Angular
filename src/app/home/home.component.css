@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+img{
+  margin-top: 60px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.first{
+  font-size: 30px;
+}
+.last{
+  padding-bottom: 60px;
+}

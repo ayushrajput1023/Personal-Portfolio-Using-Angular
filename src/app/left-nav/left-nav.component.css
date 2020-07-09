@@ -1,0 +1,16 @@
+
+img{
+  margin-top: 50px;
+  margin-bottom: 35px;
+  width: 100px;
+  border-radius: 50%;
+}
+a{
+  color: black;
+}
+.container{
+  margin-top: 30px;
+}
+.footer{
+  font-size: 12px;
+}

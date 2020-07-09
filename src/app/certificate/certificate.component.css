@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 10px;
+}
+img{
+  width: 70px;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.last{
+  padding-bottom: 60px;
+}
+.matstep{
+  border-radius: 10px;
+  background-color: #ddf3f5;
+}

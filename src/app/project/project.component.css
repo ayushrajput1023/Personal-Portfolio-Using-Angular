@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 10px;
+}
+button{
+  color: white;
+  background-color: black;
+  height: 60px;
+}
+
+.last{
+  margin-bottom: 60px;
+}
+.p1{
+  border: 1px solid #000000;
+}
